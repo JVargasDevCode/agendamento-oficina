@@ -61,7 +61,7 @@ Algumas funcionalidades que pretendo implementar futuramente:
 
 ---
 
-## Tecnologias Utilizadas
+## Tecnologia Utilizada
 
 - Python 3
 
