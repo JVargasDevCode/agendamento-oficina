@@ -18,7 +18,6 @@ Durante as aulas de Análise e Desenvolvimento de Sistemas (ADS), comecei a pens
 
 Foi então que decidi desenvolver este projeto como forma de praticar meus conhecimentos em Python enquanto buscava criar uma solução para uma situação que vivencio no ambiente de trabalho.
 
-Além de servir como ferramenta de aprendizado, o projeto também representa uma oportunidade de transformar uma necessidade real em uma aplicação prática, que continuará evoluindo conforme adquiro novos conhecimentos e experiências na área de desenvolvimento de software.
 
 ---
 
